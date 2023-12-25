@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17" fill="none">
+  <g id="Group 19466">
+    <circle id="Ellipse 232" cx="8.5" cy="8.5" r="7.5" stroke="url(#paint0_linear_1604_1853)" stroke-width="0.5"></circle>
+    <circle id="Ellipse 233" cx="8.5" cy="8.5" r="3.5" fill="#D6B46F"></circle>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_1604_1853" x1="1" y1="9" x2="16" y2="9" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D6B46F"></stop>
+      <stop offset="0.293656" stop-color="#D6B46F" stop-opacity="0.17"></stop>
+      <stop offset="0.510829" stop-color="#D6B46F" stop-opacity="0"></stop>
+      <stop offset="0.722287" stop-color="#D6B46F" stop-opacity="0.14"></stop>
+      <stop offset="1" stop-color="#D6B46F"></stop>
+    </linearGradient>
+  </defs>
+</svg>

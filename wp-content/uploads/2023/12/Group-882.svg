@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="67" height="67" viewBox="0 0 67 67" fill="none">
+  <g id="Group 882">
+    <g id="Group 877">
+      <path id="Ellipse 18" d="M65.9746 33.5C65.9746 51.7579 51.3023 66.5522 33.2112 66.5522C15.1201 66.5522 0.447799 51.7579 0.447799 33.5C0.447799 15.2421 15.1201 0.447799 33.2112 0.447799C51.3023 0.447799 65.9746 15.2421 65.9746 33.5Z" stroke="url(#paint0_linear_652_3714)" stroke-width="0.895599"></path>
+      <circle id="Ellipse 27" cx="32.9661" cy="33.4993" r="24.9915" stroke="#D6B46F"></circle>
+    </g>
+    <path id="Polygon 6" d="M41.8193 32.9214C42.486 33.3063 42.486 34.2686 41.8193 34.6535L29.6577 41.675C28.991 42.0599 28.1577 41.5788 28.1577 40.809L28.1577 26.7659C28.1577 25.9961 28.991 25.515 29.6577 25.8999L41.8193 32.9214Z" fill="#D6B46F"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_652_3714" x1="33.3657" y1="57.6944" x2="33.2367" y2="12.5629" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C19438" stop-opacity="0"></stop>
+      <stop offset="0.505208" stop-color="#C19438"></stop>
+      <stop offset="1" stop-color="#C19438" stop-opacity="0"></stop>
+    </linearGradient>
+  </defs>
+</svg>
